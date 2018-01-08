@@ -1,0 +1,58 @@
+# Translation catalog for hello_gettext.
+# Copyright (C) 2017 Harm Akkerman
+# This file is distributed under the terms
+# of the GPL v3 or later
+# Harm Akkerman <harm_akkerman@hotmail.com.com> 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: poppy 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-12 06:05+0200\n"
+"PO-Revision-Date: 2017-12-12 06:05+0200\n"
+"Last-Translator: Oz Nahum <harm_akkerman@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Hello %s %s, welcome back!"
+msgstr ""
+
+msgid "Your poppy is ready for use"
+msgstr ""
+
+msgid "I am sorry, i didn't quite understand you. Could you please repeat that?"
+msgstr ""
+
+msgid "From now on I'll address you with %s"
+msgstr ""
+
+msgid "Goodday %s %s, it is a pleasure getting to know you"
+msgstr ""
+
+msgid "What is your complete name?"
+msgstr ""
+
+msgid "How do you wish to be addressed?"
+msgstr ""
+
+msgid "Is your name %s?"
+msgstr ""
+
+msgid "I'll repeat the question"
+msgstr ""
+
+msgid "You've answered %s, is that right?"
+msgstr ""
+
+msgid "Today is %s"
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "Hello %s, what can I do for you?"
+msgstr ""

@@ -1,0 +1,7 @@
+*.mp3
+*.wav
+.env
+.idea
+*.pyc
+*.config
+*.sqlite

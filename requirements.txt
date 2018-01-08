@@ -1,0 +1,15 @@
+pony
+httplib2
+SpeechRecognition
+Faker
+wit
+mutagen
+pygame
+gTTS
+asyncio
+jsonpickle
+pypot
+playsound
+pyobjc
+pyaudio
+pyowm

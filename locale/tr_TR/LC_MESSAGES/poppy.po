@@ -1,0 +1,44 @@
+# Translation catalog for hello_gettext.
+# Copyright (C) 2017 Harm Akkerman
+# This file is distributed under the terms
+# of the GPL v3 or later
+# Harm Akkerman <harm_akkerman@hotmail.com.com> 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: poppy 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-12 06:05+0200\n"
+"PO-Revision-Date: 2017-12-12 16:19+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+msgid "Hello %s %s, welcome back!"
+msgstr "Merhaba %s %s, tekrar hoş geldiniz!"
+
+msgid "Your poppy is ready for use"
+msgstr "Popiniz kullanılmaya hazır"
+
+msgid "I am sorry, i didn't quite understand you. Could you please repeat that?"
+msgstr "Özür dilerim, sizi anlayamadım, lütfen tekrar eder misiniz?"
+
+msgid "From now on I'll address you with %s"
+msgstr "Şuandan itibaren %s ile konuşuyorum"
+
+msgid "Goodday %s %s, it is a pleasure getting to know you"
+msgstr "İyi günler %s %s, sizinle tanıştığıma memnun oldum"
+
+msgid "What is your complete name?"
+msgstr "Tam olarak adınız ne?"
+
+msgid "How do you wish to be addressed?"
+msgstr "Nasıl hitap edilmek istiyorsunuz?"
+
+msgid "Is your name %s?"
+msgstr "Adınız %s ?"
