@@ -1,3 +1,4 @@
+Co-authors: https://github.com/peterroescher 
 ## How to use Poppy
 1. Make sure you have python 3.4 installed (might work with later versions)
 2. Make sure you've installed all the required libraries listed in requirements.txt. Install these using `pip3 install -r requirements.txt`
