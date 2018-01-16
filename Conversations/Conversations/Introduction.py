@@ -60,7 +60,7 @@ class Introduction(Conversation, UsesDataSource):
         else:
             question_context = QuestionContextBuilder.new(
                 type=AskForRepeat,
-                current_question=AskForSalutation,
+                current_question=AskForSalutation(),
                 next_question=None,
                 intermediate_text=_("I am sorry, I didn't quite understand you. Could you please repeat that?")
             )
@@ -81,7 +81,7 @@ class Introduction(Conversation, UsesDataSource):
         self.data_source.salutation = salutation
         question_context = QuestionContextBuilder.new(
             type=Confirmation,
-            current_question=AskForSalutation,
+            current_question=AskForSalutation(),
             next_question=self.next_question(),
             intermediate_text=_("From now on I'll address you with %s") % self.data_source.salutation
         )
@@ -92,7 +92,7 @@ class Introduction(Conversation, UsesDataSource):
         self.data_source.name = name
         question_context = QuestionContextBuilder.new(
             type=Confirmation,
-            current_question=AskForName,
+            current_question=AskForName(),
             next_question=self.next_question(),
             intermediate_text=_("Goodday %s %s, it is a pleasure getting to know you")
                               % (self.data_source.salutation, name)

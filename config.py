@@ -14,4 +14,4 @@ USE_TTS_LANGUAGE = 'nl'
 USE_NLP_LANGUAGE = 'nl'
 
 # Project root, default is the folder which this documents lives in
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__)) # This is your Project Root
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))

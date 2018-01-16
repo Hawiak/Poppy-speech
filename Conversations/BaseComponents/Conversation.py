@@ -134,7 +134,7 @@ class ResponseHandler:
                 return True
             elif confirmation_intent_response.intent == 'confirmation_deny':
                 debug("Repeat question")
-                tts.say(_("Ill repeat the question"))
+                tts.say(_("I'll repeat the question"))
                 return False
 
     def get_question_context(self, conversation, current_question):
